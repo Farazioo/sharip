@@ -1,0 +1,5 @@
+
+Flask==2.0.1
+flask-sockets==0.2.1
+requests==2.25.1
+websocket-client==1.2.1
